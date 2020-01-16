@@ -1,1 +1,2 @@
-a = eval(input("Enter the value for A "))
+print("this changes are made from master")
+
